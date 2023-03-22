@@ -12,7 +12,10 @@ class file2
 	public void setname(String n)
 	{
 		name = n;
-		null;
+
+
+		void;
+
 	}
 }
 
