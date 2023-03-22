@@ -8,6 +8,7 @@ class file2
 	public String getname()
 	{
 		return name;
+		void;
 	}
 	public void setname(String n)
 	{
